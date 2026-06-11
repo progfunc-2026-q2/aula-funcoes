@@ -19,8 +19,6 @@ Exemplos desenvolvidos em aula
 - **Transactions.scala**: Exemplo prático de processamento sequencial de transações.
 - **ParallelTransactions.scala**: Demonstra processamento paralelo de coleções usando `.par`.
 - **TransactionCombinators.scala**: Demonstra composição de pipelines modulares de transações.
-- **archive/AccountClosure.scala**: Simulação de encapsulamento e estado mutável com closures (código comentado).
-- **archive/ComposeCombinators.scala**: Pipeline mais complexo de transações com filtros e transformações compostos com `andThen`.
 
 ## Ambiente de execução 
 
