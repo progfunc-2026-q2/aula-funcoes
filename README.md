@@ -1,4 +1,4 @@
-# Aula: Funções - Recursos Básicos
+# Aula: Funções
 
 Exemplos desenvolvidos em aula
 
